@@ -14,11 +14,18 @@ author: Paolo Sebastianelli
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Welcome: "index"
+  Research:
+    - Research: "research"
+    - Media: "media"
+    - Publications: "publications"
+    - Presentations: "presentations"
+  Teaching:
+    - UNLPAM: "UNLPam"
+  People:
+    - Students & Alumni: "people"
+    - Prospective Students: "prospective"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
