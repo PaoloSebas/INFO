@@ -16,7 +16,7 @@ E: p.sebastianelli [at] unsw.edu.au
 
 ### Research Overview
 
-I conduct research in different fields of Physics and Chemistry applying my interdisciplinary skills for the understanding of relevant processes in Environment and Earth Science, Atmospheric Physics, Material Science and Computational Chemistry. 
+I conduct research in different fields of Physics and Chemistry applying my interdisciplinary skills for the understanding of relevant processes in **Environment** and **Earth** Science, **Atmospheric** Physics, **Materials** Science and **Computational** Chemistry. 
 [[CV]](pdfs/CV_pagina.pdf) [[ORCiD]]( https://orcid.org/
 0000-0002-5729-7509) [[ResearchGate]](https://www.researchgate.net/profile/Paolo-Sebastianelli)
 
