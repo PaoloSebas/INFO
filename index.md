@@ -10,8 +10,9 @@ use-site-title: true
 #### [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong (UOW)](https://www.uow.edu.au/) <br />
 
-Room 18.202, Building 18, Northfields Avenue  
-Wollongong, NSW 2522, Australia   
+School Of Chemistry UNSW - Sydney
+E8 SEB L6
+NSW 2052 Australia  
 E: p.sebastianelli [at] unsw.edu.au 
 
 ### Research Overview
