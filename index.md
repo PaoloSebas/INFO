@@ -6,19 +6,19 @@ use-site-title: true
 ![profile-pic](/assets/img/Paolo_resized.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ### Postdoctoral Fellow
 #### [Molecular Photonics](https://molecularphotonics.sydney/)<br />
-#### [University of New South Wales](https://www.unsw.edu.au/)
+#### [University of New South Wales](https://www.unsw.edu.au/) <br />
 #### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
-#### [University of Wollongong](https://www.uow.edu.au/)
+#### [University of Wollongong](https://www.uow.edu.au/) <br />
 
 Room G19, Building 18, Northfields Avenue  
 Wollongong, NSW 2522, Australia   
 E: p.sebastianelli [at] unsw.edu.au 
 
 ### Research Overview
-I conduct research in different fields of Physics and Chemistry applying my interdisciplinary skills for the understanding of relevant processes in Environment 
-and Earth Science, Atmospheric Physics, Material Science and Computational Chemistry. 
+
+I conduct research in different fields of Physics and Chemistry applying my interdisciplinary skills for the understanding of relevant processes in Environment and Earth Science, Atmospheric Physics, Material Science and Computational Chemistry. 
 [[CV]](pdfs/CV_pagina.pdf) [[ORCiD]]( https://orcid.org/
-0000-0002-5729-7509) [[ResearchGate]](https://scholars.uow.edu.au/display/jenny_fisher)
+0000-0002-5729-7509) [[ResearchGate]](https://www.researchgate.net/profile/Paolo-Sebastianelli)
 
 ### Teaching Overview
 I had the opportunity to teach 
