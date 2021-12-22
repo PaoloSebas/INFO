@@ -19,8 +19,8 @@ Supercomputers: [Mendieta](https://ccad.unc.edu.ar/equipamiento/cluster-mendieta
 
 ## Materials Science
 
-I received my Master's degree in Chemistry carrying out an experimental thesis on the synthesis of a solid solution of magnesium, titanium and aluminium. The research project was in collaboration with Italian Space Agency (ASI) and contemplated that use of Sol-Gel techniques. I got my Master's degree in Polymer Science and technology at the Proplast Consortium and my goal is to use this knowledge in the fields of recycling and waste management. 
+I received my Master's degree in Chemistry carrying out an experimental thesis on the synthesis of a solid solution of magnesium, titanium and aluminium. The research project was in collaboration with Italian Space Agency (ASI) and contemplated that use of Sol-Gel techniques. I got my Master's degree in Polymer Science and technology at the [Proplast](https://www.proplast.it/) (now [Plastic Academy](https://www.plasticsacademy.it/) and my goal is to use this knowledge in the fields of materials recycling and waste management. 
 
 ## DATA SCIENCE 
 
-I am interested in applying Machine Learning (ML) to the scientific problems I face during my work. Recently, I have finished a Professional Program in Data Science with a Capstone course applying ML algorithms
+I am interested in applying Machine Learning (ML) to the scientific problems I face during my work. Recently, I have finished a Professional Program in Data Science with a [Capstone](https://github.com/PaoloSebas/DATA_SCIENCE/tree/main/CAPSTONE_CYO/GEOS_Chem) course applying ML algorithms to a dataset produce by GEOS-Chem Simulations.
