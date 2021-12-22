@@ -10,7 +10,7 @@ use-site-title: true
 #### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong (UOW)](https://www.uow.edu.au/) <br />
 
-Room G19, Building 18, Northfields Avenue  
+Room 18.202, Building 18, Northfields Avenue  
 Wollongong, NSW 2522, Australia   
 E: p.sebastianelli [at] unsw.edu.au 
 
