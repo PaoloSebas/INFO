@@ -12,7 +12,7 @@ Supercomputer: [GADI](https://nci.org.au/our-systems/hpc-systems)
 
 ## Atmospheric Physics 
 
-My main goal is making smaller the uncertainties related to the estimation of aerosol (particulate) formation in global climate models. Specifically i am studying pre-nucleation mechanisms by DFT (Density Functional Theory) simulations. 
+My main goal is making smaller the uncertainties related to the estimation of aerosol formation in global climate models simulations. Specifically i am studying pre-nucleation mechanisms by DFT (Density Functional Theory). 
 
 Software and Code: [Gaussian](https://gaussian.com/), [GAMESS](https://www.msg.chem.iastate.edu/gamess/), [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
 Supercomputers: [Mendieta](https://ccad.unc.edu.ar/equipamiento/cluster-mendieta/), [Galileo100](https://www.hpc.cineca.it/hardware/galileo100)
