@@ -22,7 +22,7 @@ I conduct research in different fields of Physics and Chemistry applying my inte
 
 ### Teaching Overview
 
-I had the opportunity to teach at the [National University of La Pampa (Argentina)](https://www.unlpam.edu.ar/) from April 2014 to July 2019. 
+I had the opportunity to teach at the [National University of La Pampa (Argentina)](https://www.unlpam.edu.ar/) from April 2014 to July 2019. As Lecturer I tought Physical Chemistry I and Introduction to Electromagnetism. I worked also as Associate Lecturer in Physical Chemistry II, General Chemistry, Physics III-Electromagnetism.  
 
 ### News
 
