@@ -10,7 +10,7 @@ use-site-title: true
 #### [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong (UOW)](https://www.uow.edu.au/) <br />
 
-School Of Chemistry UNSW - Sydney
+School Of Chemistry UNSW - Sydney <br />
 E8 SEB L6
 NSW 2052 Australia  
 E: p.sebastianelli [at] unsw.edu.au 
@@ -26,5 +26,5 @@ I had the opportunity to teach at the [National University of La Pampa (Argentin
 
 ### News
 
-- I recently joined the [Molecular Photonics (MoPhos)](https://molecularphotonics.sydney/) research group!!! 
-- So grateful to have joined the [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/).
+- September 2021: I joined the [Molecular Photonics (MoPhos)](https://molecularphotonics.sydney/) research group!!! 
+- May 2020: So grateful to have joined the [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/).
