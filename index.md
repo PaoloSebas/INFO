@@ -27,3 +27,4 @@ I had the opportunity to teach at the [National University of La Pampa (Argentin
 ### News
 
 - I recently joined the Molecular Photonics research group!!! [Molecular Photonics](https://molecularphotonics.sydney/)<br />
+- So grateful to have joined the [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)
