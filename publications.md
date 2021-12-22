@@ -13,20 +13,20 @@ title: Publications
 6. SCIENCE
 18 November 2021 - Vol. 374, Issue 6570
 Response to Comment on “A global environmental crisis 42,000 years ago”
-Authors: A. Cooper, C.S. Turney et al.
+Authors: A. Cooper, C.S. Turney et al. DOI: 10.1126/science.abi9756
 [read](https://doi.org/10.1126/science.abi9756)
 
 5. SCIENCE
 18 November 2021 - Vol. 374, Issue 6570
 Response to Comment on “A global environmental crisis 42,000 years ago”
-Authors: A. Cooper, C.S. Turney et al.
+Authors: A. Cooper, C.S. Turney et al. DOI: 10.1126/science.abh3655
 [read](https://doi.org/10.1126/science.abh3655)
 
 4. SCIENCE
 19 February 2021 - Vol. 371, Issue 6531, pp. 811-818
 A global environmental crisis 42,000 years ago
 Authors: A. Cooper, C.S. Turney et al.
-[read](https://doi.org/10.1126/science.abb8677
+[read](https://doi.org/10.1126/science.abb8677)
 
 3. International Journal of Quantum Chemistry; e26060 (2019)
 Frontier molecular orbital analysis for determining the equilibrium geometries of
