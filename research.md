@@ -23,4 +23,4 @@ I received my Master's degree in Chemistry carrying out an experimental thesis o
 
 ## DATA SCIENCE 
 
-I am interested in applying Machine Learning (ML) to the scientific problems I face during my work. Recently, I have finished a Professional Program in Data Science with a [Capstone](https://github.com/PaoloSebas/DATA_SCIENCE/tree/main/CAPSTONE_CYO/GEOS_Chem) course applying ML algorithms to a dataset produce by GEOS-Chem Simulations.
+I am interested in applying Machine Learning (ML) to the scientific problems I face during my work. Recently, I have finished a [Professional Program in Data Science](https://credentials.edx.org/records/programs/shared/a6ec23f56aa5460b96bf111bb9c2d6de/) with a [Capstone](https://github.com/PaoloSebas/DATA_SCIENCE/tree/main/CAPSTONE_CYO/GEOS_Chem) course applying ML algorithms to a dataset produce by GEOS-Chem Simulations.
