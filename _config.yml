@@ -22,9 +22,6 @@ navbar-links:
     - Presentations: "presentations"
   Teaching:
     - UNLPAM: "UNLPam"
-  People:
-    - Students & Alumni: "people"
-    - Prospective Students: "prospective"
   About Me: "aboutme"
 
 # --- Logo --- #
