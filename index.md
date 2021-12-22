@@ -22,7 +22,7 @@ I conduct research in different fields of Physics and Chemistry applying my inte
 
 ### Teaching Overview
 
-I had the opportunity to teach at the [National University of La Pampa (Argentina)](https://www.unlpam.edu.ar/) from April 2014 to July 2019. As Lecturer I tought Physical Chemistry I and Introduction to Electromagnetism. I worked also as Associate Lecturer in Physical Chemistry II, General Chemistry, Physics III-Electromagnetism. Here in Australia I already made some experience of casual teaching. I worked as Tutor and Lab Assistant at the [UOW](https://www.uow.edu.au/) in two different subjects: Introduction to Environmental Physics and Chemistry for Engineering.
+I had the opportunity to teach at the [National University of La Pampa (Argentina)](https://www.unlpam.edu.ar/) from April 2014 to July 2019. As Lecturer I tought Physical Chemistry I and Introduction to Electromagnetism. I worked also as Associate Lecturer in Physical Chemistry II, General Chemistry, Physics III-Electromagnetism. Here in **Australia** I already made some experience of casual teaching. I worked as Tutor and Lab Assistant at the [UOW](https://www.uow.edu.au/) in two different subjects: Introduction to Environmental Physics and Chemistry for Engineering.
 
 ### News
 
