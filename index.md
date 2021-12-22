@@ -21,7 +21,8 @@ I conduct research in different fields of Physics and Chemistry applying my inte
 0000-0002-5729-7509) [[ResearchGate]](https://www.researchgate.net/profile/Paolo-Sebastianelli)
 
 ### Teaching Overview
-I had the opportunity to teach 
+
+I had the opportunity to teach at the [National University of La Pampa (Argentina)](https://www.unlpam.edu.ar/) from April 2014 to July 2019. 
 
 ### News
 
