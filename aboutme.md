@@ -4,6 +4,6 @@ title: About me
 subtitle: Under construction 
 ---
 
-My name Paolo Sebastianelli 
+My name is Paolo Sebastianelli. 
 
 ### My story
