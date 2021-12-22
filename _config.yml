@@ -17,7 +17,6 @@ navbar-links:
   Welcome: "index"
   Research:
     - Research: "research"
-    - Media: "media"
     - Publications: "publications"
     - Presentations: "presentations"
   Teaching:
