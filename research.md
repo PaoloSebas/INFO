@@ -16,3 +16,7 @@ My main goal is making smaller the uncertainties related to the estimation of ae
 
 Software and Code: [Gaussian](https://gaussian.com/), [GAMESS](https://www.msg.chem.iastate.edu/gamess/), [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
 Supercomputers: [Mendieta](https://ccad.unc.edu.ar/equipamiento/cluster-mendieta/), [Galileo100](https://www.hpc.cineca.it/hardware/galileo100)
+
+## Materials Science
+
+I received my Master's degree in Chemistry carrying out an experimental thesis on the synthesis of a solid solution of magnesium, titanium and aluminium. The research project was in collaboration with Italian Space Agency (ASI) and contemplated that use of Sol-Gel techniques. 
