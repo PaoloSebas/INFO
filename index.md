@@ -5,9 +5,9 @@ use-site-title: true
 
 ![profile-pic](/assets/img/Paolo_resized.png){:style="float: right;margin-left: 7px;:class="img-responsive"}
 ### Postdoctoral Fellow
-#### [Molecular Photonics](https://molecularphotonics.sydney/)<br />
+#### [Molecular Photonics (MoPhos)](https://molecularphotonics.sydney/)<br />
 #### [University of New South Wales (UNSW)](https://www.unsw.edu.au/) <br />
-#### [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
+#### [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong (UOW)](https://www.uow.edu.au/) <br />
 
 Room 18.202, Building 18, Northfields Avenue  
@@ -27,4 +27,4 @@ I had the opportunity to teach at the [National University of La Pampa (Argentin
 ### News
 
 - I recently joined the Molecular Photonics research group!!! [Molecular Photonics](https://molecularphotonics.sydney/)<br />
-- So grateful to have joined the [Centre for Atmospheric Chemistry](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)
+- So grateful to have joined the [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)
