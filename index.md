@@ -18,8 +18,7 @@ E: p.sebastianelli [at] unsw.edu.au
 ### Research Overview
 
 I conduct research in different fields of Physics and Chemistry applying my interdisciplinary skills for the understanding of relevant processes in **Environment** and **Earth** Science, **Atmospheric** Physics, **Materials** Science and **Computational** Chemistry. 
-[[CV]](pdfs/CV_pagina.pdf) [[ORCiD]]( https://orcid.org/
-0000-0002-5729-7509) [[ResearchGate]](https://www.researchgate.net/profile/Paolo-Sebastianelli)
+[[ORCiD]]( https://orcid.org/0000-0002-5729-7509) [[ResearchGate]](https://www.researchgate.net/profile/Paolo-Sebastianelli)
 
 ### Teaching Overview
 
@@ -28,4 +27,4 @@ I had the opportunity to teach at the [National University of La Pampa (Argentin
 ### News
 
 - I recently joined the [Molecular Photonics (MoPhos)](https://molecularphotonics.sydney/) research group!!! 
-- So grateful to have joined the [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)
+- So grateful to have joined the [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/).
