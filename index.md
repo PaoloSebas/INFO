@@ -11,8 +11,8 @@ use-site-title: true
 #### [University of Wollongong (UOW)](https://www.uow.edu.au/) <br />
 
 School Of Chemistry UNSW - Sydney <br />
-E8 SEB L6
-NSW 2052 Australia  
+E8 SEB L6 <br />
+NSW 2052 Australia  <br />
 E: p.sebastianelli [at] unsw.edu.au 
 
 ### Research Overview
