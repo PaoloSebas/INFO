@@ -12,11 +12,15 @@ Supercomputer: [GADI](https://nci.org.au/our-systems/hpc-systems)
 
 ## Atmospheric Physics 
 
-My main goal is making smaller the uncertainties related to the estimation of aerosol formation in global climate models simulations. Specifically i am studying pre-nucleation mechanisms by DFT (Density Functional Theory). 
+My main goal is making smaller the uncertainties related to the estimation of aerosol formation in global climate models simulations. Specifically i am studying pre-nucleation mechanisms by DFT (Density Functional Theory). I am also working with colleagues from CNR-Italy on water molecular clusters formation and with the [Atmospheric Physics research group](https://www.famaf.unc.edu.ar/investigaci%C3%B3n/%C3%A1reas-de-investigaci%C3%B3n/f%C3%ADsica-ofi/f%C3%ADsica-de-la-atm%C3%B3sfera/) of FaMAF-UNC (Cordoba-Argentina) to study Homogeneous Nucleation in Supercooled Liquid Water by Molecular Dynamics.  
 
-Software and Code: [Gaussian](https://gaussian.com/), [GAMESS](https://www.msg.chem.iastate.edu/gamess/), [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
+Software and Code: [Gaussian](https://gaussian.com/), [GAMESS](https://www.msg.chem.iastate.edu/gamess/), [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal), [GROMACS](https://www.gromacs.org/About_Gromacs)
 Supercomputers: [Mendieta](https://ccad.unc.edu.ar/equipamiento/cluster-mendieta/), [Galileo100](https://www.hpc.cineca.it/hardware/galileo100)
 
 ## Materials Science
 
-I received my Master's degree in Chemistry carrying out an experimental thesis on the synthesis of a solid solution of magnesium, titanium and aluminium. The research project was in collaboration with Italian Space Agency (ASI) and contemplated that use of Sol-Gel techniques. 
+I received my Master's degree in Chemistry carrying out an experimental thesis on the synthesis of a solid solution of magnesium, titanium and aluminium. The research project was in collaboration with Italian Space Agency (ASI) and contemplated that use of Sol-Gel techniques. I got my Master's degree in Polymer Science and technology at the Proplast Consortium and my goal is to use this knowledge in the fields of recycling and waste management. 
+
+## DATA SCIENCE 
+
+I am interested in applying Machine Learning (ML) to the scientific problems I face during my work. Recently, I have finished a Professional Program in Data Science with a Capstone course applying ML algorithms
