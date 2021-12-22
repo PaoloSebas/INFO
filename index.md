@@ -3,7 +3,7 @@ layout: page
 use-site-title: true
 ---
 
-![profile-pic](/assets/img/Paolo.jpeg){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![profile-pic](/assets/img/Paolo_resized.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
 ### Postdoctoral Fellow
 #### [Molecular Photonics](https://molecularphotonics.sydney/)<br />
 #### [University of New South Wales](https://www.unsw.edu.au/)
