@@ -5,7 +5,7 @@ subtitle: Italy - Argentina - Australia
 ---
 ![Travelling](/assets/img/Travel.JPG){:style="float: left;margin-right: 7px;:class="img-responsive"} <br />
 
-I was born in Latina, an italian city near Rome. I always had a passion for science. My highschool was a Scientific Liceo. After that I landed in the fabulous world of Chemistry science, at the [University of Rome Tor Vergata](https://en.uniroma2.it/). After an experience as Salesman for an Pharmaceutical Company, I moved to Alessandria (nort of Italy) to deepen my knowledge in Polymer Science and Technology. <br />
+I was born in Latina, an italian city near Rome. I always had a passion for science. My highschool was a Scientific Liceo. After that I landed in the fabulous world of Chemistry science, at the [University of Rome Tor Vergata](https://en.uniroma2.it/). After an experience as Salesman for an Pharmaceutical Company, I moved to Alessandria (north of Italy) to deepen my knowledge in Polymer Science and Technology. <br />
 
 Love moves mountains, and I flew to Argentina to join my wife and have the gift to build a beautiful family. <br />
 
