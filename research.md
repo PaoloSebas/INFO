@@ -14,6 +14,8 @@ Supercomputer: [GADI](https://nci.org.au/our-systems/hpc-systems)
 
 ## Atmospheric Physics 
 
+![SFONDO](/assets/img/sfondo.png){:style="float: left;margin-right: 7px;:class="img-responsive"} <br />
+
 My main goal is making smaller the uncertainties related to the estimation of aerosol formation in global climate models simulations. Specifically i am studying pre-nucleation mechanisms by DFT (Density Functional Theory). I am also working with colleagues from CNR-Italy on water molecular clusters formation and with the [Atmospheric Physics research group](https://www.famaf.unc.edu.ar/investigaci%C3%B3n/%C3%A1reas-de-investigaci%C3%B3n/f%C3%ADsica-ofi/f%C3%ADsica-de-la-atm%C3%B3sfera/) of FaMAF-UNC (Cordoba-Argentina) to study Homogeneous Nucleation in Supercooled Liquid Water by Molecular Dynamics.  
 
 Software and Code: [Gaussian](https://gaussian.com/), [GAMESS](https://www.msg.chem.iastate.edu/gamess/), [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal), [GROMACS](https://www.gromacs.org/About_Gromacs) <br />
