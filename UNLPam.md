@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching experience
-subtitle: If you can't explain it simply, you don't understand it well enough. *Albert Einstein
+subtitle: If you can't explain it simply, you don't understand it well enough. A.E.
 
 ---
 ![Agro](/assets/img/agro.PNG){:style="float: left;margin-right: 7px;:class="img-responsive"} <br />
