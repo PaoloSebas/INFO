@@ -7,4 +7,4 @@ subtitle: Italy - Argentina - Australia
 
 My name is Paolo Sebastianelli. 
 
-![Pampa](/assets/img/footer.png){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![Pampa](/assets/img/footer.PNG){:style="float: left;margin-right: 7px;:class="img-responsive"}
