@@ -5,7 +5,7 @@ title: Research
 
 ## Environmental and Earth Systems Science 
 
-![GEOS](/assets/img/GEOS.png){:style="float: centre;margin-right: 7px;:class="img-responsive"} <br />
+![GEOS](/assets/img/GEOS.png){:style="float: center;margin-right: 7px;:class="img-responsive"} <br />
 
 Since I arrived in Australia I had the opportunity to start collaborations with colleagues from three prestigious universities: UNSW, USyd and UOW. They are internationally renowned experts in different fields as, for example, global chemical transport modelling, atmospheric physical chemistry or paleoclimate. At the moment, I am performing Kinetic Modelling of a novel class of atmospheric reactions that will be used to improve the performance of global chemical transport models. 
 
@@ -28,5 +28,8 @@ Supercomputers: [Mendieta](https://ccad.unc.edu.ar/equipamiento/cluster-mendieta
 I received my Master's degree in Chemistry carrying out an experimental thesis on the synthesis of a solid solution of magnesium, titanium and aluminium. The research project was in collaboration with Italian Space Agency (ASI) and contemplated that use of Sol-Gel techniques. I got my Master's degree in Polymer Science and technology at the [Proplast](https://www.proplast.it/) (now [Plastic Academy](https://www.plasticsacademy.it/)) and my goal is to use this knowledge in the fields of materials recycling and waste management. 
 
 ## DATA SCIENCE 
+
+![MAP](/assets/img/map.png){:style="float: left;margin-right: 7px;:class="img-responsive"} <br />
+
 
 I am interested in applying Machine Learning (ML) to the scientific problems I face during my work. Recently, I have finished a [Professional Program in Data Science](https://credentials.edx.org/records/programs/shared/a6ec23f56aa5460b96bf111bb9c2d6de/) with a [Capstone](https://github.com/PaoloSebas/DATA_SCIENCE/tree/main/CAPSTONE_CYO/GEOS_Chem) course applying ML algorithms to a dataset produce by GEOS-Chem Simulations.
