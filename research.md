@@ -5,7 +5,7 @@ title: Research
 
 ## Environmental and Earth Systems Science 
 
-![GEOS](/assets/img/GEOS.png){:style="float: left;margin-right: 7px;:class="img-responsive"} <br />
+![GEOS](/assets/img/GEOS.png){:style="float: centre;margin-right: 7px;:class="img-responsive"} <br />
 
 Since I arrived in Australia I had the opportunity to start collaborations with colleagues from three prestigious universities: UNSW, USyd and UOW. They are internationally renowned experts in different fields as, for example, global chemical transport modelling, atmospheric physical chemistry or paleoclimate. At the moment, I am performing Kinetic Modelling of a novel class of atmospheric reactions that will be used to improve the performance of global chemical transport models. 
 
