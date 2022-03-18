@@ -52,3 +52,5 @@ Authors: Maria Luisa Di Vona, Riccardo Polini, **Paolo Sebastianelli**, Silvia L
 ## Other 
 
 Fisher, J., Sebastianelli, P., Schofield, R. (2021) GEOS-Chem model output for 2017-2018 CAMMPCAN Aurora Australis voyages, Ver. 1, Australian Antarctic Data Centre - [(read)](https://researchdata.edu.au/geos-chem-model-australis-voyages/1701891) doi:10.26179/hna9-ab45
+
+Sebastianelli, P., Fisher, J. and Schofield, R. (2022) GEOS-Chem model output for 2018-2019 CAMMPCAN Aurora Australis voyages, Ver. 1, Australian Antarctic Data Centre [(read)](https://data.aad.gov.au/metadata/records/AAS_4431_CAMMPCAN_GEOS_Chem_Model_AA_2018-19) doi:10.26179/y9p1-xw20
