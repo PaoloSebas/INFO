@@ -11,10 +11,12 @@ title: Publications
 ## Referreed
 
 7. Molecular Simulation 
-Just accepted - Now in Production
+02 May 2022 - eprint
 Homogeneous Nucleation in Supercooled Liquid Water. Determination of Ice Germ Size and Activation Energy Barrier in Molecular Dynamics Simulations
 Authors: R. G. Pereyra, P. Sebastianelli, E. Avila
-DOI: coming soon 
+DOI: 10.1080/08927022.2022.2068801
+[(read)](https://doi.org/10.1080/08927022.2022.2068801)
+
 
 6. SCIENCE
 18 November 2021 - Vol. 374, Issue 6570
