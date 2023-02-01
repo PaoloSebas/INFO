@@ -31,5 +31,6 @@ I had the opportunity to teach at the [National University of La Pampa (Argentin
 
 ### News
 
+- January 2023: Back to CAC! [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/).
 - September 2021: I joined the [Molecular Photonics (MoPhos)](https://molecularphotonics.sydney/) research group!!! 
 - May 2020: So grateful to have joined the [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/).
