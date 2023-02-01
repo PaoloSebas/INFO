@@ -13,12 +13,12 @@ use-site-title: true
 Associate Research Fellow <br />
 Centre for Atmospheric Chemistry - School of Earth, Atmospheric & Life Sciences <br />
 Faculty of Science, Medicine and Health <br />
-University of Wollongong NSW 2522 Australia
+University of Wollongong NSW 2522 Australia <br />
 
-Building 18, Room 204
+Building 18, Room 204 <br />
 
-T +61 2 4239 4606
-E paolos [at] uow.edu.au
+T +61 2 4239 4606 <br />
+E paolos [at] uow.edu.au <br />
 
 ### Research Overview
 
