@@ -7,7 +7,7 @@ title: Presentations
 
 ## Conference Presentations
 
-# [Atmospheric Composition & Chemistry Observation & Modelling Conference 2022 ]
+# Atmospheric Composition & Chemistry Observation & Modelling Conference 2022
 
 Master Equation modelling: Formaldehyde Photophysical Oxidation [Abstract](/pdf/Sebastianelli_ACCOMC_2022.pdf)
 
