@@ -7,6 +7,10 @@ title: Presentations
 
 ## Conference Presentations
 
+# [Atmospheric Composition & Chemistry Observation & Modelling Conference 2022 ]
+
+Master Equation modelling: Formaldehyde Photophysical Oxidation [Abstract](/pdf/Sebastianelli_ACCOMC_2022.pdf)
+
 # [12th European Meeting on Fire Retardant Polymers (FRPM’09)](https://www.flameretardants-online.com/news/archive?showid=17880)
 
 Carbonization Mechanism of PET [FRPM’09](/pdf/Sebastianelli_Poster_FRPM09.pdf)
