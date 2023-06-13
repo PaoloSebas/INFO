@@ -11,6 +11,10 @@ title: Presentations
 
 Master Equation modelling: Formaldehyde Photophysical Oxidation [Abstract](/pdf/Sebastianelli_ACCOMC_2022.pdf)
 
+# RACI 2022 National Congress in Brisbane from 3-8 July 2022
+
+The reaction of molecular oxygen with excited formaldehyde; a new atmospheric source of HO2? [Abstract](/pdf/RACI-2022-Oral-abstracts-010722.pdf)
+
 # [12th European Meeting on Fire Retardant Polymers (FRPM’09)](https://www.flameretardants-online.com/news/archive?showid=17880)
 
 Carbonization Mechanism of PET [FRPM’09](/pdf/Sebastianelli_Poster_FRPM09.pdf)
