@@ -15,9 +15,9 @@ body {
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
-  background-color: {{ site.page-col | default: "#FFFFFF" }};
+  background-color: {{ site.page-col | default: "#73FFA3" }};
   {% if site.page-img %}
-  background-image: url('/assets/img/Respect.png')
+  background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
   overflow-wrap: break-word;
