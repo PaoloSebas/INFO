@@ -20,7 +20,7 @@ navbar-links:
     - Publications: "publications"
     - Presentations: "presentations"
   Teaching:
-    - Teaching: "teaching"
+    #- Teaching: "teaching"
     - UNLPAM: "UNLPam"
   Teams:
     - Polytechnic of Turin: "Polytechnic"
