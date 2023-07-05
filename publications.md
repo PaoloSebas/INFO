@@ -10,6 +10,13 @@ title: Publications
 
 ## Referreed
 
+7. Nature Chemistry 
+06 July 2023
+Photophysical oxidation of HCHO produces HO2 radicals
+Authors: Blair A. Welsh, Maggie E. Corrigan, Emmanuel Assaf, Klaas Nauta, Paolo Sebastianelli, Meredith J. T. Jordan, Christa Fittschen and Scott H. Kable
+DOI: 10.1038/s41557-023-01272-4
+[(read)](https://www.nature.com/articles/s41557-023-01272-4)
+
 7. Molecular Simulation 
 02 May 2022 - eprint
 Homogeneous Nucleation in Supercooled Liquid Water. Determination of Ice Germ Size and Activation Energy Barrier in Molecular Dynamics Simulations
