@@ -60,9 +60,9 @@ Authors: **P. Sebastianelli**, P.M. Cometto, R.G Pereyra
 1. Journal of SolGel Science and Technology 31,95-98, (2004)  
 A Non-Hydrolytic Sol-Gel Approach for the Preparation of Mg x Al 2(1−x) Ti (1+x) O 5 Powders  
 Authors: Maria Luisa Di Vona, Riccardo Polini, **Paolo Sebastianelli**, Silvia Liccoccia  
-[(read)](https://doi.org/10.1023/B:JSST.0000047967.82122.6f)  
+[(read)](https://doi.org/10.1023/B:JSST.0000047967.82122.6f)
 
-{: reversed="reversed"}
+{:reversed="reversed"}
 
 ## Other 
 
