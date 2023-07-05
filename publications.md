@@ -62,8 +62,6 @@ A Non-Hydrolytic Sol-Gel Approach for the Preparation of Mg x Al 2(1−x) Ti (1+
 Authors: Maria Luisa Di Vona, Riccardo Polini, **Paolo Sebastianelli**, Silvia Liccoccia  
 [(read)](https://doi.org/10.1023/B:JSST.0000047967.82122.6f)
 
-{:reversed="reversed"}
-
 ## Other 
 
 Fisher, J., Sebastianelli, P., Schofield, R. (2021) GEOS-Chem model output for 2017-2018 CAMMPCAN Aurora Australis voyages, Ver. 1, Australian Antarctic Data Centre - [(read)](https://researchdata.edu.au/geos-chem-model-australis-voyages/1701891) doi:10.26179/hna9-ab45
