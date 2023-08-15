@@ -14,4 +14,4 @@ In Argentina, I started the research pathways in Atmospheric Physics and had the
 Since my wife was granted a scholarship to do a PhD at the [University of Wollongong](https://www.uow.edu.au/), we moved in this marvelous city in July 2019. At the moment, after working as Senior PostDoc at UNSW-MoPhos (Molecular Photonics) research group, I am an Associate Research Fellow at UOW (University of Wollongong) CAC (Centre for Atmosphric Chemistry). I also have the honour of being an (Honorary) Adjunct Associate Lecturer at the UNSW School of Chemistry. Environmental and Earth systems are becoming my new challenging fields of investigation. <br />
 
 
-![Pampa](/assets/img/footer.PNG){:style="float: left;margin-right: 7px;:class="img-responsive"}
+![Pampa](/assets/img/giac.jpg){:style="float: left;margin-right: 7px;:class="img-responsive"}
