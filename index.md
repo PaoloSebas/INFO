@@ -3,7 +3,7 @@ layout: page
 use-site-title: true
 ---
 
-![profile-pic](/assets/img/Profile_picture_PSeb.jpg){:style="float: right;margin-left: 7px;width: 100px;" :class="img-responsive"}
+![profile-pic](/assets/img/Profile_picture_PSeb.jpg){:style="float: right;margin-left: 7px;width: 200px;" :class="img-responsive"}
 ### Postdoctoral Fellow
 #### [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong (UOW)](https://www.uow.edu.au/) <br />
