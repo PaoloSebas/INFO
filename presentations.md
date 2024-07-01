@@ -5,6 +5,10 @@ title: Presentations
 
 ###  [Conference Presentations](#conference-presentations) 
 
+# [The 11th International GEOS-Chem Meeting (IGC11) June 11-14, 2024](https://geoschem.github.io/igc11.html)
+
+A new source of HO2?
+
 # Atmospheric Composition & Chemistry Observation & Modelling Conference 2023 - Monday 20th November – Thursday 23rd November 2023 - Murramarang Beachfront Nature Resort, South Durras, NSW, Australia
 
 Warming refrigerants ?
