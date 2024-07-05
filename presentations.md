@@ -11,7 +11,7 @@ A new source of HO2? [Poster](/pdf/POSTER_IGC11_Sebastianelli_Paolo_f.pdf)
 
 # Atmospheric Composition & Chemistry Observation & Modelling Conference 2023 - Monday 20th November – Thursday 23rd November 2023 - Murramarang Beachfront Nature Resort, South Durras, NSW, Australia
 
-Warming refrigerants ? [Poster](/pdf/ACCOMC_KCGASM2023_Oral_Sebastianelli_Paolo_v2.pdf)
+Warming refrigerants? [Abstract](/pdf/ACCOMC_KCGASM2023_Oral_Sebastianelli_Paolo_v2.pdf)
 
 # Atmospheric Composition & Chemistry Observation & Modelling Conference 2022 - CSIRO - Aspendale - Victoria - Australia
 
