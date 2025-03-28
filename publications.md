@@ -3,10 +3,14 @@ layout: page
 title: Publications
 ---
 
-### [In Review](#in-review) | [Referreed](#referreed) | [Other](#other)
+### [In production](#in-production) |[Under Review](#under-review) | [Referreed](#referreed) | [Other](#other)
 
-## In Review
----
+## In production
+ Ignite your students interest in separable ODEs: a fire engineering application - International Journal of Mathematical Education in Science and Technology (TMES)
+ Assigned DOI: https://doi.org/10.1080/0020739X.2025.2471439 
+
+## Under Review
+ Accurate Energy Predictions for Tropospheric Photolysis Reactions of Fluorinated Acetaldehydes, the Breakdown Products of Hydrofluoroolefins - Journal of Physical Chemistry A
 
 ## Referreed
 
