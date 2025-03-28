@@ -7,7 +7,7 @@ title: Research
 
 ![GEOS](/assets/img/GEOS.png){:style="float: center;margin-right: 7px;:class="img-responsive"} <br />
 
-Since my arrival in Australia in 2019, I had the priviledge of working with internationally renowned members of the Atmosphere Science community: Professor Scott KABLE(UNSW), Professor Meredith JORDAN(USYD), Professor Jenny FISHER (JCU), Professor Clare MURPHY and Nicholas DEUTSCHER (UOW). We collaborated to characterise novel atmospheric reaction mechanisms and assess the impact on the global atmospheric scenario using global transport models. At the moment, I am working on the formaldehyde photophysical oxidation (PPO) to assess its impact on the HO2 global budget.
+Since my arrival in Australia in 2019, I had the priviledge of working with internationally renowned members of the Atmosphere Science community: Professor Scott KABLE (UNSW), Professor Meredith JORDAN (USYD), Professor Jenny FISHER (JCU), Professor Clare MURPHY and Nicholas DEUTSCHER (UOW). We collaborated to characterise novel atmospheric reaction mechanisms and assess their impact on the global atmospheric scenario using global transport models. At the moment, I am working on the formaldehyde photophysical oxidation (PPO) to assess its impact on the HO2 global budget.
 
 Software and Code: [Multiwell](https://clasp-research.engin.umich.edu/multiwell/), [GEOS-Chem](https://geos-chem.seas.harvard.edu/) <br />
 Supercomputer: [GADI](https://nci.org.au/our-systems/hpc-systems)
@@ -25,7 +25,7 @@ Supercomputers: [Mendieta](https://ccad.unc.edu.ar/equipamiento/cluster-mendieta
 
 ![PET](/assets/img/PET.PNG){:style="float: left;margin-right: 7px;:class="img-responsive"} <br />
 
-I received my Bachelor degree (with HOnours) in Chemistry carrying out an experimental thesis on the synthesis of a solid solution of magnesium, titanium and aluminium. The research project was in collaboration with the Italian Space Agency (ASI) and contemplated the use of Sol-Gel techniques. I got my Master's degree in Polymer Science and technology at the [Proplast](https://www.proplast.it/) (now [Plastic Academy](https://www.plasticsacademy.it/)) and my goal is to use this knowledge in the fields of materials recycling and waste management. 
+I received my Bachelor degree (with Honours) in Chemistry carrying out an experimental thesis on the synthesis of a solid solution of magnesium, titanium and aluminium. The research project was in collaboration with the Italian Space Agency (ASI) and contemplated the use of Sol-Gel techniques. I got my Master's degree in Polymer Science and technology at the [Proplast](https://www.proplast.it/) (now [Plastic Academy](https://www.plasticsacademy.it/)) and my goal is to use this knowledge in the fields of materials recycling and waste management. 
 
 ## DATA SCIENCE 
 
