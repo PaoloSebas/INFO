@@ -10,16 +10,9 @@ use-site-title: true
 #### [Molecular Photonics (MoPhos)](https://molecularphotonics.sydney/)<br />
 #### [University of New South Wales (UNSW)](https://www.unsw.edu.au/) <br />
 
-Associate Research Fellow <br />
-Centre for Atmospheric Chemistry - CAC <br />
-School of Earth, Atmospheric & Life Sciences <br />
-Faculty of Science, Medicine and Health <br />
-University of Wollongong NSW 2522 Australia <br />
-
-Building 18, Room 204 <br />
-
-T +61 2 4239 4606 <br />
-E paolos [at] uow.edu.au <br />
+Research Fellow <br />
+School of Culture, History and Language, ANU College of Asia and the Pacific <br />
+Australian National University  <br />
 
 ### Research Overview
 
