@@ -20,9 +20,9 @@ navbar-links:
     - Publications: "publications"
     - Presentations: "presentations"
   Teaching:
-    - Teaching: "Teaching portfolio"
-    - UOW: "University of Wollongong"
-    - UNLPAM: "Universidad Nacional de La Pampa"
+    - Teaching portfolio: "Teach_port"
+    - University of Wollongong: "UOW"
+    - Universidad Nacional de La Pampa: "UNLPam"
    
   Teams:
     - Polytechnic of Turin: "Polytechnic"
