@@ -5,7 +5,7 @@ use-site-title: true
 
 ![profile-pic](/assets/img/Profile_picture_PSeb.jpg){:style="float: right;margin-left: 7px;width: 200px;" :class="img-responsive"}
 ### Postdoctoral Fellow
-#### [Australian National University - School of Culture, History and Language, ANU College of Asia and the Pacific] (https://chl.anu.edu.au/)
+#### [ANU - School of Culture, History and Language, ANU College of Asia and the Pacific](https://chl.anu.edu.au/)<br />
 #### [Centre for Atmospheric Chemistry (CAC)](https://www.uow.edu.au/science-medicine-health/research/centre-for-atmospheric-chemistry/)<br />
 #### [University of Wollongong (UOW)](https://www.uow.edu.au/) <br />
 #### [Molecular Photonics (MoPhos)](https://molecularphotonics.sydney/)<br />
