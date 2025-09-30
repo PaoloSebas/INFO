@@ -16,14 +16,20 @@ author: Paolo Sebastianelli
 navbar-links:
   Welcome: "index"
   Research:
-    - Research: "research"
+    - Research: "Research"
     - Publications: "publications"
     - Presentations: "presentations"
   Teaching:
-    #- Teaching: "teaching"
-    - UNLPAM: "UNLPam"
+    - Teaching: "Teaching portfolio"
+    - UOW: "University of Wollongong"
+    - UNLPAM: "Universidad Nacional de La Pampa"
+   
   Teams:
     - Polytechnic of Turin: "Polytechnic"
+    - Universidad Nacional de la Pampa: "UNLPAm"
+    - University of Wollongong: "CAC"
+    - University of New South Wales: "MoPhos"
+
   About Me: "aboutme"
 
 # --- Logo --- #
