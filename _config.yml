@@ -19,14 +19,15 @@ navbar-links:
     - Research: "Research"
     - Publications: "publications"
     - Presentations: "presentations"
+    
   Teaching:
-    - Teaching portfolio: "Teach_port"
+    - Teaching portfolio: "Teachport"
     - University of Wollongong: "UOW"
     - Universidad Nacional de La Pampa: "UNLPam"
    
   Teams:
     - Polytechnic of Turin: "Polytechnic"
-    - Universidad Nacional de la Pampa: "UNLPAm"
+    - Universidad Nacional de la Pampa: "UNLPamT"
     - University of Wollongong: "CAC"
     - University of New South Wales: "MoPhos"
 
