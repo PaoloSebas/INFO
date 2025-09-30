@@ -16,7 +16,7 @@ author: Paolo Sebastianelli
 navbar-links:
   Welcome: "index"
   Research:
-    - Research: "Research"
+    - Research: "research"
     - Publications: "publications"
     - Presentations: "presentations"
     
